@@ -270,3 +270,4 @@ We thank Yifan Mai for helpful support, and members of the Stanford NLP Group as
 
 
 Related project: [WizardLM](https://github.com/npxucan/WizardLM)
+Related project: [WizardLM](https://github.com/nlpxucan/WizardLM)
